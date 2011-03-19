@@ -1,0 +1,15 @@
+#
+# Ejercicio 5.38- Pagina 183 del Libro
+# "Elementos de Matemáticas Discretas"
+# Segunda Edicion
+# C. L. Liu.
+#
+
+A = 0: 1=5 2=4 3=5 4=8
+B = 1: 2=2 3=2 4=3 
+C = 2: 3=3 4=5
+D = 3: 4=2 
+E = 4: 
+
+
+# Falta completar el resto

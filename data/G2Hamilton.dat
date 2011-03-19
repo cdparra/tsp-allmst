@@ -1,0 +1,12 @@
+#
+# Ejemplo de la Pagina 161 del Libro
+# "Elementos de Matemáticas Discretas"
+# Segunda Edicion
+# C. L. Liu.
+#
+
+A = 0: 1=14 2=12 3=7 4=10
+B = 1: 2=9 3=13 4=5
+C = 2: 3=6 4=8
+D = 3: 4=11 
+E = 4:

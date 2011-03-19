@@ -1,0 +1,15 @@
+#
+# Ejercicio 32. Seccion 4.1 - Pagina 174
+# Matemáticas Discretas
+# Richard Johnsonbaugh
+#
+
+A = 0: 1=2 3=2 4=2
+B = 1: 2=1 4=1 
+C = 2: 4=1 5=2
+D = 3: 4=2 6=3 
+E = 4: 5=1 6=3 7=1
+F = 5: 8=3
+G = 6: 7=3
+H = 7: 8=3
+J = 8;

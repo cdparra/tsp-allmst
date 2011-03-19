@@ -1,0 +1,12 @@
+#
+# G2 Modificado
+#
+
+A = 0: 1=14 2=12  
+B = 1: 
+C = 2: 3=6 4=8 1=9  
+D = 3: 4=11 0=7 1=13
+E = 4: 0=10
+
+
+# Falta completar el resto
